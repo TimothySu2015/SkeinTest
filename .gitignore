@@ -1,0 +1,3 @@
+# Claude Code keeps its worktrees here; they are not part of the project
+.claude/
+node_modules/
